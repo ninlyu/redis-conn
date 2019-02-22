@@ -1,0 +1,27 @@
+{
+  "name": "redis-conn",
+  "version": "1.0.0",
+  "description": "cache redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninlyu/redis-conn.git"
+  },
+  "keywords": [
+    "cache",
+    "redis"
+  ],
+  "author": "ninlyu.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninlyu/redis-conn/issues"
+  },
+  "homepage": "https://github.com/ninlyu/redis-conn#readme",
+  "dependencies": {
+    "hash-json": "^1.0.0",
+    "redis": "^2.8.0"
+  }
+}
